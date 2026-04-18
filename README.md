@@ -1,10 +1,11 @@
-# SQL Global Superstore Analysis
+# SQL-Power BI Global Superstore Analysis
 
 ## Project Overview
-This project analyzes the Global Superstore dataset using SQL to extract meaningful business insights.
+This project analyzes the Global Superstore dataset using SQL and Power BI to extract meaningful business insights.
 
 ## Tools Used
 - SQL (Oracle APEX)
+- Microsoft Power BI
 
 ## Dataset
 - Name: Global Superstore 2016
@@ -27,6 +28,7 @@ This project analyzes the Global Superstore dataset using SQL to extract meaning
 ## Files Included
 - `SQL_PROJECT.pdf` → Complete project with queries & insights
 - `superstore_queries.sql` → All SQL queries used
+- Global_superstore_powerBI_project.pbix -> Dashboard
 
 ## Conclusion
 The business is profitable overall, but optimizing loss-making products and improving profit margins can significantly increase profitability.
